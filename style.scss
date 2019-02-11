@@ -8,3 +8,14 @@
   If you need some CSS for any reason you can put it here.
 */
 
+.squareBox {
+  height: 500px;
+  width: 500px;
+
+}
+
+#squareImg{
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
